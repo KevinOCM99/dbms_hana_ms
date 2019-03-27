@@ -1,0 +1,2 @@
+SELECT CURRENT_DATE "current date" FROM DUMMY;
+SELECT CURRENT_TIMESTAMP "current timestamp" FROM DUMMY;
